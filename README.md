@@ -3,6 +3,6 @@
 Spin the wheel using js
 
 references:
-https://github.com/weibenfalk/vanilla-js-wheel-of-fortune
+Github : weibenfalk,vanilla-js-wheel-of-fortune
+Image : pinclipart.com
 
-https://www.pinclipart.com/maxpin/TTwJoT/
